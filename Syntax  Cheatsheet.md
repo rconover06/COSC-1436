@@ -12,7 +12,7 @@ Character | Name | Description
   `;`  | semicolon       | Marks the end of a complete programming statement
 
 # Common Keywords
-Common Keywords | . | . | . | . 
+. | . | . | . | . 
 -----------|--------------|---------------|-------------------|----------
 alignas    | const        | **for**       | private           | throw
 alignof    | constexpr    | friend        | protected         | true
@@ -30,7 +30,7 @@ char       | explicit     | not_eq        | struct            | wchar_t
 char16_t   | export       | nullptr       | switch            | while
 char32_t   | extern       | operator      | template          | xor
 class      | false        | or            | this              | xor_eq
-compl      | **float**    | or_eq         | threadpool        | .
+compl      | **float**    | or_eq         | threadpool        | 
 
 
 # Identifiers
