@@ -1,14 +1,15 @@
 Syntax Notes
 
 # Special Characters
-  //  Comment
-  
-  # Beginning of  a preprocesor directive
-  <>  Enclose a filename when used with the #include directive
-  ()  Used with naming a function
-  {}  Enclose a group of statements
-  ""  Enclose a string of characters
-  ;   Marks the end of a complete programming statement
+Character | Name | Description
+----------|------|------------
+  // | Double slash | Marks the beginning of a comment
+  '#'  | Pound sign |Beginning of  a preprocesor directive
+  <> | Brackets| Enclose a filename when used with the #include directive
+  () | Parentheses | Used with naming a function
+  {} | Braces | Enclose a group of statements
+  "" | Quotation Marks |Enclose a string of characters
+  ;  | semicolon | Marks the end of a complete programming statement
   
 # Common Escape Sequences
 Escape Sequence | Name | Description
