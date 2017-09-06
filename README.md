@@ -17,6 +17,7 @@ Programming Fundamentals I
   #include <cmath>
 
 # Setup each program with the basics below
+'''
 //Raul Conover
 //Date
 //Description of program
@@ -31,4 +32,4 @@ int main()
   .
   return 0;
 }
- 
+'''
