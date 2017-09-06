@@ -3,14 +3,32 @@
 # Special Characters
 Character | Name | Description
 ----------|------|------------
-  `//` | Double slash | Marks the beginning of a comment
-  `#`  | Pound sign |Beginning of  a preprocesor directive
-  `<>` | Brackets| Enclose a filename when used with the #include directive
-  `()` | Parentheses | Used with naming a function
-  `{}` | Braces | Enclose a group of statements
+  `//` | Double slash    | Marks the beginning of a comment
+  `#`  | Pound sign      |Beginning of  a preprocesor directive
+  `<>` | Brackets        | Enclose a filename when used with the #include directive
+  `()` | Parentheses     | Used with naming a function
+  `{}` | Braces          | Enclose a group of statements
   `""` | Quotation Marks |Enclose a string of characters
-  `;` | semicolon | Marks the end of a complete programming statement
+  `;`  | semicolon       | Marks the end of a complete programming statement
+
+# Common Keyaords
+
+# Identifiers
+  Programmer defined word to name: variables, constant, function, class, etc.
   
+  Rules:
+  
+    * Identifiers are case sensative
+    * Must start with an alpha character or an underscore
+    * May consist *only* of alpha characters, digits, and underscores
+    
+  Naming Convention:
+  
+    * Start variables with lowercase
+    * Start constants with upper case
+    * Do not start personal variables with underscore
+    * Make names meaningful
+
 # Common Escape Sequences
 Escape Sequence | Name | Description
 ----------------|------|------------
