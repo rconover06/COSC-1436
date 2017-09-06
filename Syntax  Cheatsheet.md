@@ -1,6 +1,6 @@
-## Syntax Cheatsheet
+# Syntax Cheatsheet
 
-# Special Characters
+## Special Characters
 Character | Name | Description
 ----------|------|------------
   `//` | Double slash    | Marks the beginning of a comment
@@ -11,7 +11,7 @@ Character | Name | Description
   `""` | Quotation Marks |Enclose a string of characters
   `;`  | semicolon       | Marks the end of a complete programming statement
 
-# Common Keywords
+## Common Keywords
 . | . | . | . | . 
 -----------|--------------|---------------|-------------------|----------
 alignas    | const        | **for**       | private           | throw
@@ -33,7 +33,7 @@ class      | false        | or            | this              | xor_eq
 compl      | **float**    | or_eq         | threadpool        | 
 
 
-# Identifiers
+## Identifiers
   Programmer defined word to name: variables, constant, function, class, etc.
   
   Rules:
@@ -49,7 +49,7 @@ compl      | **float**    | or_eq         | threadpool        |
       * Do not start personal variables with underscore
       * Make names meaningful
 
-# Common Escape Sequences
+## Common Escape Sequences
 Escape Sequence | Name | Description
 ----------------|------|------------
   `\n`  | newline         | causes cursor to next line for subsequent printing
