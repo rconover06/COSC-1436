@@ -1,10 +1,10 @@
-Syntax Notes
+# Syntax Notes
 
 # Special Characters
 Character | Name | Description
 ----------|------|------------
   // | Double slash | Marks the beginning of a comment
-  '#'  | Pound sign |Beginning of  a preprocesor directive
+  `#`  | Pound sign |Beginning of  a preprocesor directive
   <> | Brackets| Enclose a filename when used with the #include directive
   () | Parentheses | Used with naming a function
   {} | Braces | Enclose a group of statements
