@@ -11,7 +11,14 @@ Character | Name | Description
   `""` | Quotation Marks |Enclose a string of characters
   `;`  | semicolon       | Marks the end of a complete programming statement
 
-# Common Keyaords
+# Common Keywords
+ | 
+----------|----------
+int       | if
+double    | else
+return    | while
+using     | for
+namespace |
 
 # Identifiers
   Programmer defined word to name: variables, constant, function, class, etc.
