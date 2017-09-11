@@ -53,6 +53,7 @@ compl      | **float**    | or_eq         | threadpool        |
 Escape Sequence | Name | Description
 ----------------|------|------------
   `\n`  | newline         | causes cursor to next line for subsequent printing
+  `endl`| newline         | causes cursor to next line for subsequent printing(quotes not needed)
   `\t`  | horizontal tab  | causes cursor to skip over to the next tab stop
   `\a`  | alarm           | causes computer to beep
   `\b`  | backspace       | causes the cursor to backup, or move left one position
