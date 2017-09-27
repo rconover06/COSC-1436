@@ -3,18 +3,18 @@ Chapter 3 Part B Output
 
 Enter the temperature in degrees Celsius: -5
 Enter the velocity of the wind in kilometers per hour: 20
-The wind chill is -11.53캜 or 11.25캟.
+The wind chill is -11.53째C or 11.25째F.
 
 
 Enter the temperature in degrees Celsius: -5
 Enter the velocity of the wind in kilometers per hour: 50
-The wind chill is -14.93캜 or 5.13캟.
+The wind chill is -14.93째C or 5.13째F.
 
 
 Enter the temperature in degrees Celsius: 0
 Enter the velocity of the wind in kilometers per hour: 7
-The wind chill is -2.38캜 or 27.71캟.
+The wind chill is -2.38째C or 27.71째F.
 
 Enter the temperature in degrees Celsius: 10
 Enter the velocity of the wind in kilometers per hour: 25
-The wind chill is 6.96캜 or 44.52캟.
+The wind chill is 6.96째C or 44.52째F.
