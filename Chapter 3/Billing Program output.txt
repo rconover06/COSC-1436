@@ -1,0 +1,27 @@
+Raul Conover Billing Program Output
+
+Please enter in the cost of the meal(before tax and tip): 45.20
+Raul's Tacos
+Raul Conover
+Meal Charge: $ 45.20
+Tax:         $  3.73
+Tip:         $  3.73
+Total:       $ 56.27
+
+
+Please enter in the cost of the meal(before tax and tip): 45.20
+Raul's Tacos
+Raul Conover
+Meal Charge: $ 45.20
+Tax:         $  3.73
+Tip:         $  3.73
+Total:       $ 56.27
+
+
+Please enter in the cost of the meal(before tax and tip): 56.78
+Raul's Tacos
+Raul Conover
+Meal Charge: $ 56.78
+Tax:         $  4.68
+Tip:         $  4.68
+Total:       $ 70.68
