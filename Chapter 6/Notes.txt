@@ -1,1 +1,19 @@
+Label
+    Funciton Prototype
+    Funciton Call <-- Includes arguments
+    Funrtion Definition
+    -> Function header <- includes formal parameters.
+    -> Function Body
+  local variables (local to the function)
+  global variables (Not a good idea to use)
+  
+  
+Argument
+    if value parameter argument may be:
+        -> constant Value
+        -> variable that has a value
+        -> an expression
+    if reference parameter
+         MUST be a single variable name!
+ 
 
