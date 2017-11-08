@@ -1,0 +1,15 @@
+200 converted to unsigned binary: 0000 0000 1100 1000
+63 converted to unsigned binary: 0000 0000 0011 1111
+255 converted to unsigned binary: 0000 0000 1111 1111
+144 converted to unsigned binary: 0000 0000 1001 0000
+ERROR! Input value -1 is out of range for this program.
+1024 converted to unsigned binary: 0000 0100 0000 0000
+65000 converted to unsigned binary: 1111 1101 1110 1000
+ERROR! Input value 100000 is out of range for this program.
+65535 converted to unsigned binary: 1111 1111 1111 1111
+ERROR! Input value 123456 is out of range for this program.
+1987 converted to unsigned binary: 0000 0111 1100 0011
+7 converted to unsigned binary: 0000 0000 0000 0111
+55321 converted to unsigned binary: 1101 1000 0001 1001
+25252 converted to unsigned binary: 0110 0010 1010 0100
+0 converted to unsigned binary: 0000 0000 0000 0000

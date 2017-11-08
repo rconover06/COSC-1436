@@ -1,0 +1,35 @@
+Raul Conover
+Chapter 5 Part 1 Output
+
+Enter grades, Q to quit.
+Enter grade  1: 88
+Enter grade  2: 78
+Enter grade  3: 45
+Enter grade  4: 82
+Enter grade  5: 81
+Enter grade  6: 75
+Enter grade  7: 75
+Enter grade  8: 75
+Enter grade  9: 75
+Enter grade 10: 45
+Enter grade 11: q
+Your average after dropping low grade of 45 is: 74.9
+Your letter grade is C.
+
+
+Enter grades, Q to quit.
+Enter grade  1: 99
+Enter grade  2: q
+Your Average is 99
+Your letter grade is A.
+
+
+Enter grades, Q to quit.
+Enter grade  1: 63
+Enter grade  2: 78
+Enter grade  3: 98
+Enter grade  4: 65
+Enter grade  5: 91
+Enter grade  6: q
+Your average after dropping low grade of 63 is: 83.0
+Your letter grade is B.
