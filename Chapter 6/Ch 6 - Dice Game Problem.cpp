@@ -5,9 +5,9 @@
 	Date: 11/8/2017
 
 	Description: The program will generate 2d6 roll. On the first roll If the sum is 7 or 11 the 
-		player wins and loses on a sum of 2, 3, or 12. If the sum is 4,5,6,8,9,10 on the first throw
-		that number becomes "the point". If you do not win or lose on the first throw continue to roll
-		until "the point" is rolled again (to win) or a 7 is rolled (to lose).
+		player wins and loses on a sum of 2, 3, or 12. If the sum is 4,5,6,8,9,10 on the first 
+		throw that number becomes "the point". If you do not win or lose on the first throw 
+		continue to roll until "the point" is rolled again (to win) or a 7 is rolled (to lose).
 */
 
 #include <iostream>
@@ -30,8 +30,8 @@ int main()
 	char again, ch;
 	int roll, point;
 
-	srand(unsigned(time(0)));
-	craps_rules();				//Print out the title and rules for craps to the player
+	srand(unsigned(time(0)));	// Random number generator.
+	craps_rules();				// Print out the title and rules for craps to the player.
 
 	do
 	{
@@ -41,6 +41,8 @@ int main()
 		roll = roll_dice();
 		point = first_roll(roll);
 		
+		
+		// If the player 
 		while(point > 0)
 		{
 			cout << "Press Enter to roll again." << endl;
@@ -75,9 +77,9 @@ void craps_rules()
 		 << "\"make your point\" you win; if you roll a 7 you lose." << endl << endl;
 }
 
-//*************************************************************************
-// This function will "roll" two dice and return the sum of die1 and die2 *
-//*************************************************************************
+//**************************************************************************
+// This function will "roll" two dice and return the sum of die1 and die2. *
+//**************************************************************************
 int roll_dice()
 {
 	int die1, die2;
@@ -134,10 +136,11 @@ void print_die(int face)
 	}
 }
 
-//******************************************************************
-// This funtion will take the sum of the two dice and determine if *
-// the player wins or loses.									   *
-//******************************************************************
+//********************************************************************
+// This funtion will take the sum of the two dice and determine if   *
+// the player wins or loses. It returns dieTotal. If the player	     *
+// wins or loses it returns -1 to skip the while loop for more rolls.*									   *
+//********************************************************************
 int first_roll(int dieTotal)
 {
 	if (dieTotal == 7 || dieTotal == 11)
@@ -163,6 +166,12 @@ int first_roll(int dieTotal)
 		
 
 }
+
+//***************************************************************************
+// This function reads in the sum of the die total. It will determine		*
+// if the player wins loses, or has to roll again. It returns the point 	*
+// If the player wins or loses it returns a -1 to end the while loop. 		*
+//***************************************************************************
 int point_roll(int dieTotal, int point)
 {
 	if (dieTotal == point)
@@ -193,7 +202,6 @@ char repeat_game()
 	char repeat;
 	cout << "Would you like to play again? y or n: ";
 	cin >> repeat;
-	//cin.ignore(40, '\n') >> repeat;
 	repeat = tolower(repeat);
 	return repeat;
 }
