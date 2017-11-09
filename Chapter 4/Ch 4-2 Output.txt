@@ -1,0 +1,63 @@
+Select a medium the soundwave is traveling through or option 4 to quit.
+        1. Air
+        2. Water
+        3. Steel
+        4. To exit the program.
+Selection: 1
+Enter a distance in feet: 5.7
+Through air, sound waves travel 5.7 feet in 0.0052 seconds.
+
+Select a medium the soundwave is traveling through or option 4 to quit.
+        1. Air
+        2. Water
+        3. Steel
+        4. To exit the program.
+Selection: 2
+Enter a distance in feet: 5.7
+Through Water, sound waves travel 5.7 feet in 0.0012 seconds.
+
+Select a medium the soundwave is traveling through or option 4 to quit.
+        1. Air
+        2. Water
+        3. Steel
+        4. To exit the program.
+Selection: 3
+Enter a distance in feet: 5.7
+Through steel, sound waves travel 5.7 feet in 0.0035 seconds.
+
+Select a medium the soundwave is traveling through or option 4 to quit.
+        1. Air
+        2. Water
+        3. Steel
+        4. To exit the program.
+Selection: 1
+Enter a distance in feet: 32000
+Through air, sound waves travel 32000.0 feet in 29.0909 seconds.
+
+Select a medium the soundwave is traveling through or option 4 to quit.
+        1. Air
+        2. Water
+        3. Steel
+        4. To exit the program.
+Selection: 2
+Enter a distance in feet: 32000
+Through Water, sound waves travel 32000.0 feet in 6.5306 seconds.
+
+Select a medium the soundwave is traveling through or option 4 to quit.
+        1. Air
+        2. Water
+        3. Steel
+        4. To exit the program.
+Selection: 3
+Enter a distance in feet: 32000
+Through steel, sound waves travel 32000.0 feet in 19.5122 seconds.
+
+Select a medium the soundwave is traveling through or option 4 to quit.
+        1. Air
+        2. Water
+        3. Steel
+        4. To exit the program.
+Selection: 4
+Thank you!
+
+Press any key to continue . . .

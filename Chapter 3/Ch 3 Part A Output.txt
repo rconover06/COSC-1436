@@ -1,0 +1,20 @@
+Raul Conover
+Chapter 3 Part A Output
+
+
+Enter the temperature in degrees Fahrenheit: 20
+Enter the velocity of the wind in miles per hour: 16
+The wind chill is 5.78°F
+
+
+Enter the temperature in degrees Fahrenheit: 20
+Enter the velocity of the wind in miles per hour: 35
+The wind chill is 0.13°F
+
+Enter the temperature in degrees Fahrenheit: 32
+Enter the velocity of the wind in miles per hour: 5
+The wind chill is 27.08°F
+
+Enter the temperature in degrees Fahrenheit: 0
+Enter the velocity of the wind in miles per hour: 15
+The wind chill is -19.40°F

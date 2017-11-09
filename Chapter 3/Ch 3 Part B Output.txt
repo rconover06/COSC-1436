@@ -1,0 +1,20 @@
+Raul Conover
+Chapter 3 Part B Output
+
+Enter the temperature in degrees Celsius: -5
+Enter the velocity of the wind in kilometers per hour: 20
+The wind chill is -11.53°C or 11.25°F.
+
+
+Enter the temperature in degrees Celsius: -5
+Enter the velocity of the wind in kilometers per hour: 50
+The wind chill is -14.93°C or 5.13°F.
+
+
+Enter the temperature in degrees Celsius: 0
+Enter the velocity of the wind in kilometers per hour: 7
+The wind chill is -2.38°C or 27.71°F.
+
+Enter the temperature in degrees Celsius: 10
+Enter the velocity of the wind in kilometers per hour: 25
+The wind chill is 6.96°C or 44.52°F.
