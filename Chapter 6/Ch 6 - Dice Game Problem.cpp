@@ -1,5 +1,5 @@
 /*
-	Filename: Ch 6 - Dice Game Problem.cpp
+	Filename: Ch 6 - Dice Game Problem.cppb
 
 	Author: Raul Conover
 	Date: 11/8/2017
@@ -36,7 +36,7 @@ int main()
 	do
 	{
 		// Ask the player to roll the dice
-		cout << "Press Enter to roll your first set of die." << endl;
+		cout << "Press Enter to roll your first set of dice." << endl;
 		cin.get(ch);
 		roll = roll_dice();
 		point = first_roll(roll);
@@ -202,6 +202,7 @@ char repeat_game()
 	char repeat;
 	cout << "Would you like to play again? y or n: ";
 	cin >> repeat;
+	
 	repeat = tolower(repeat);
 	return repeat;
 }
