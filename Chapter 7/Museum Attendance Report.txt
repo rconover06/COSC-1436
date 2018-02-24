@@ -1,0 +1,30 @@
+				Raul Conover
+				Date: 12/04/17
+
+	Previous 14 Day Museum Attendance Report
+
+Total Attendace for period:			   34648
+
+Maximum Attendance was on day 3:		4002
+Minimum Attendance was on day 11:		1110
+
+Average Attendance for past 14 days:	2474.9
+Average Attendance for first 3 days:	3245.3
+Average Attendance for last 3 days:		2825.3
+
+		Daily Attendance Records
+			Day		Attendees
+			  1		 2317
+			  2		 3417
+			  3		 4002
+			  4		 1750
+			  5		 1927
+			  6		 3400
+			  7		 2500
+			  8		 1610
+			  9		 1497
+			 10		 2642
+			 11		 1110
+			 12		 1799
+			 13		 2789
+			 14		 3888
